@@ -1,0 +1,12 @@
+[General]
+Name|Appel téléphonique
+
+[Dialogues]
+0|Bonjour Madison. Je me présente, je suis Hugo HugeHole, je représente votre amie Vickie Vixen sous la marque Poppycock Productions. Mademoiselle, pour être honnête, vous avez une certaine classe et je vous appelle pour vous dire que je peux faire de vous une star. C'est vrai, alors rappelez-moi dès que possible pour que nous puissions discuter de votre carrière. Maintenant, j'ai une promotion canapé à filmer dans mon bureau mal éclairé. N’hésitez pas à fixer un rendez-vous pour que vous puissiez venir dans nos locaux. A bientôt !
+
+[Responses]
+fc0ecf9e-4443-44f3-accd-b11233d181a3|*Fin du message*
+
+[Quests]
+
+[Events]

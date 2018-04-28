@@ -1,0 +1,535 @@
+[General]
+Name|Ashley
+
+[Dialogues]
+0|Re-bonjour. Comment ça va ?
+0.1|Salut. Moi, c'est Ashley, je suis la soeur de Madison. Ravie de te rencontrer !
+0.2|Par pur hasard, aurais tu trouver quelque chose avec lequel je puisse me sécher ?
+0.3|Comment avance notre petite opération ?
+1|Erf. Mon imbécile de soeur a renversé sa bière sur moi. Je suis sûre qu'elle l'a fait exprès, même si elle ne l'admettra jamais. Résultat, je suis complètement trempée et je dois trouver un moyen de me sécher.
+2|Erf. Par pitié, ne me compare pas à elle. C'est assez tendu entre nous pour le moment.
+3|Oh, merci ! C'est vraiment gentil !
+3.1|Ah ouais ? Plus belle qu'elle ? Et qui est-ce qui m'a dit que je lui ressemblais tellement il n'y a pas si longtemps ? Ca me revient, c'était toi.
+4|Tu n'aides pas.
+5|Tu ferais ça pour moi ? Attends, comment puis-je être sûre que tu n'es pas de mèche avec Madison et que ce n'est pas juste un autre de ses plans pour m'humilier ? Je ne sais même pas si je peux te faire confiance !
+5.1|Tu ferais ça pour moi ? Ca serait génial. Je sais que nous venons tout juste de nous rencontrer, mais tu m'inspires confiance. Surtout parce que tu m'as rapporté son journal intime. Bon, viens m'aider.
+5.2|Tu ferais ça pour moi ? J'avais quelques doutes à ton sujet... Tu n'as pas l'air super intelligent... Mais tu as réussi à me rapporter son journal intime... Donc je pense que je peux te faire confiance. Bon, viens m'aider.
+6|Depuis toute petite, elle n'arrête pas de me jouer de sales tours. Elle adore m'humilier, surtout devant ses amis. Une fois, elle a pris tous mes vêtements et toutes les serviettes pendant que je me douchais. J'ai dû sortir de la salle de bain toute nue devant nos invités. C'était horrible ! Pour une fois, j'aimerais tellement que ce soit elle le dindon de la farce.
+7|Hum. Tu es un beau mec. Je suis sûre que ma soeur aura probablement un petit faible pour toi. Que dis-tu de ça : Tu la séduis puis tu essayes de la déshabiller dans une des chambres. Ensuite, tu vas chercher Frank et tu le mène à Madison. Elle sera tellement embarrassée ! Ca sera trop épique ! Si tu as besoin de conseils pour la séduire, demande-moi. J'ai volé son journal intime suffisamment de fois pour savoir ce qui la met dans tous ses états.
+8|Désolé, mais je ne pense pas que nous nous connaissions suffisamment pour continuer.
+9|Oh, tu voudrais m'aider ? En fait, je suis complètement trempée. J'ai besoin de sécher mes vêtements d'une façon ou d'une autre.
+10|Parfait ! Merci beaucoup ! Mais ces vêtements empestent encore la bière.
+11|Je vais te dire un secret : Madison tient un journal intime. Je l'ai déjà vue écrire dedans plusieurs fois. Elle ne laisse personne le lire. Je ne sais même pas où elle le cache. Si tu peux me le rapporter, je saurai avec certitude que je peux te faire confiance.
+12|Putain d'enfoiré ! Ne t'approche pas de moi !
+13|Attends, est-ce que c'est le téléphone de Madison ?
+14|Oh, ok. C'est vraiment très ressemblant. Tu as même la même coque de protection rose.
+15|Hum. Eh bien, si tu cherches à regarder le contenu de son téléphone, je pourrais probablement te fournir son code pin. Mais d'abord, tu dois faire quelque chose pour moi.
+15.1|Attends, laisse-moi deviner : tu es impatient de voir ce que Madison cache dans son téléphone. Non, plutôt excité, vu ta tête... Mais avant que je ne te le débloque, il faut que tu fasses quelque chose pour moi.
+16|En fait, ce n'est pas un secret que Madison et moi avons quelques rengaines l'une avec l'autre. J'aimerais vraiment pouvoir prendre ma revanche et la faire payer pour une fois, au lieu que ce soit moi le dindon de la farce. De plus, l'humilier à sa propre soirée serait tout simplement épique.
+17|Je pense qu'elle doit garder quelque chose de compromettant dans son téléphone, sinon elle ne changerait pas constamment de code pin. De plus, elle l'écrit dans son journal intime dès fois qu'elle ne s'en rappelle plus. Bref, vois si tu peux trouver son journal intime. Elle pense qu'elle est intelligente en le cachant en tant que numéro de téléphone, mais je sais comment le retrouver. Ramène-moi son journal et je te donnerai le code pin en échange.
+18|Impressionnant ! Je ne pensais pas que tu en serais capable, mais je suis heureuse de mettre trompée. Ce journal intime contient tous les mots de passe de Madison. Voici son code pin : 1337. J'ai maintenant accès à tous ses comptes ! Facebook, Instagram... Oh, ça va être génial !
+19|Je suppose que tu as pris de gros risques pour récupérer ce journal. Madison t'aurait tuée si elle t'avait pris en flagrant délit. Ok, suis-moi. Nous allons dans un endroit plus intime où je pourrais me changer.
+19.1|Ok, suis-moi. Je vais aller me changer dans un endroit un peu plus discret.
+20|D'accord. Et voilà. Au fait, merci d'avoir veiller sur moi. Tu t'en es très bien sorti ! Oh, et s'il te plaît, ferme la porte derrière toi !
+21|Pourrais-tu fermer la porte pour commencer ?
+22|Erf. Je ne me sens pas bien tout d'un coup.
+23|Hum. Il y a trop de monde dans cette pièce pour que je me déshabille maintenant...
+24|Euh... Ton machin... est de sorti.
+24.1|Je pourrais imaginer faire quelques petites choses avec ça...
+25|En fait, j'ai vraiment soif, et je ne peux pas aller me chercher un soda dans le réfrigérateur habillée comme ça. Pourrais-tu aller m'en chercher un ?
+26|Oh, merci beaucoup ! Tu es le meilleur !
+27|Oh mon Dieu. J'ai besoin d'aller aux toilettes rapidement !
+28|Merde, qui a verrouillé la porte de la salle de bain ? Tu l'as fait exprès, n'est-ce pas ?
+29|Pas croyable ! Celle-là aussi est verrouillée ! La dernière salle de bain est.. *glups* ..en bas. Ok, respire profondément, Ashley. Tu peux le faire...
+30|Va te faire foutre, connard. Bien sûr que tu as la clé. Je me doutais bien que tu étais de mèche avec Madison ! J'ai vraiment besoin d'y aller. Je ferais n'importe quoi ! Je resterai toute nue pour le reste de la soirée s'il le faut. Mais, laisse-moi y aller.
+31|Désolé, mais je ne pense pas que je t'apprécie suffisamment pour ça. Tu en as déjà trop vu. Je crois que je vais garder ma culotte sur moi, même si elle est complètement trempée.
+32|Oh, merci beaucoup ! Tu viens pratiquement de me sauver la vie ! N'hésite pas à me demander tout ce que tu veux !
+33|C'est quoi ce bordel ? Sérieusement ? J'ai vraiment besoin d'aller aux toilettes ! Est-ce que quelqu'un a la clé ?
+34|Tu es vraiment le pire des enfoirés. J'espère au moins que tu apprécies le spectacle, connard.
+35|Erf. Si c'est la seule façon pour que je puisse y aller, alors qu'il en soit ainsi, vu que je n'ai pas d'autre choix. Voici. Prends-la. De toute façon, je suppose que je ne récupèrerais pas mes vêtements quand je sortirai des toilettes ? J'ai le sentiment que je vais passer le reste de cette soirée toute nue...
+36|C'est ton jour de chance aujourd'hui. Tu as de la chance que je t'apprécie autant !
+37|Oh arrête. Haha. Tu es amusant.
+38|Hé ! C'est quoi ce bordel ? Etes-vous en train de conspirer contre moi pendant que je suis ici ?
+39|Hum. Eh bien, je suppose que je te dois bien ça. Tu as veillé sur moi toute la nuit, et Madison t'en veux à mort. Je suppose que tu mérites bien ça. En plus, je mentirais si je disais que ça ne me tente pas.
+40|Hum. Et si nous allions quelque part de plus intime ? Je n'aime pas trop m'exhiber en public.
+41|Et puis quoi encore ? Sérieusement, j'apprécie le fait que tu veuille m'aider, mais je ne vais pas te tailler une pipe pour ça. Je crois que nous devrions cesser de nous parler.
+42|C'est quoi ce bordel ? Est-ce que tu viens juste de jouir sur moi, connard ? C'est quoi ton problème ? Ew ew ew !
+42.1|T'en as foutu partout sur ma robe ! Elle venait juste d'être nettoyée ! T'es trop con, je t'aurais volontairement suivi n'importe où si tu me l'avais juste demandé !
+43|Mrnph erm rumfrum errm mumphrum mer...
+44|Tu me rends vraiment mes vêtements ? Eh bien, merci. Mais cela n'excuse pas ce que tu m'as fait. Tu es toujours un connard, mais j'apprécie que tu me laisses me rhabiller.
+45|J'aimerais avoir le pied de quelqu'un d'autre pour te le coller au cul, parce que j'ai peur de ce que je peux y trouver !
+46|Euh, non, désolé. Je ne l'ai pas.
+46.1|Non, et ma réponse serait la même si je l'avais.
+46.2|Tu sais quoi ? En fait, je l'avais. Je l'ai donné à Frank pour qu'il le garder en toute sécurité et je l'ai vu le ranger dans son caleçon, un peu comme une coquille de protection pour ses burnes. Puis il m'a dit : "Si quelqu'un a besoin de ce téléphone, surtout le petit nouveau, dit lui de venir me voir et de baisser mon froc. Comme ça, si quelqu'un baisse mon pantalon sans me demander ma permission, je saurais qu'elle est autorisée à utiliser le téléphone de Patrick" Maintenant, tu sais ce qu'il te reste à faire. Bonne chance.
+47|Oh, c'est toi. Que veux-tu ?
+48|Mais quelle idée stupide t'est passée par la tête ? C'était très embarrassant pour moi !
+49|Le fait de jouer un tour aussi embarrassant à quelqu'un juste pour avoir le numéro d'une fille n'arrange pas ton cas. Tu es pitoyable. Et en plus, tu suis les idées stupides de ma soeur. Barre-toi de ma vue.
+50|Eh bien, le fait de t'excuser est vraiment très mature de ta part. Je suppose que c'est un bon début. Mais ce n'est pas pour autant que je puisse te faire confiance.
+50.1|Eh bien, le fait de t'excuser est vraiment très mature de ta part. Je suppose que c'est un bon début. Mais ce n'est pas pour autant que je puisse te faire confiance. Considère que la farce que nous voulons jouer est en attente pour l'instant. Je ne peux pas continuer l'exécution de mon plan avec quelqu'un qui pourrait se retourner contre moi à tout moment.
+51|Oh. C'est pour moi ? Merci... mais tout le monde sait que je déteste la couleur rouge. Ca me rappelle la fois où Madison m'a teint les cheveux en rouge vif et m'a rasé les sourcils alors que je dormais.
+51.1|Oh. C'est pour moi ? Merci... Mais j'imagine que tout le temps que nous avons passé ensemble ce soir n'était pas suffisant pour vraiment me connaître... Je déteste la couleur rouge. Et tout ce qui est de cette couleur. Ca me rappelle la fois où Madison m'a teint les cheveux en rouge vif et m'a rasé les sourcils alors que je dormais.
+52|Oh, merci ! J'apprécie vraiment que tu essayes de te faire pardonner. Où diable as-tu pu trouver une fleur bleue comme celle-ci dans le coin ? C'est vraiment étrange.
+52.1|Oh, une fleur bleue ! Comme c'est gentil de ta part. Je ne me souviens pas la dernière fois que quelqu'un m'a offert une fleur en cadeau. Je pense que ça devait être pour un bal de promos... Ouais, c'était un bracelet avec une magnifique fleur bleue. Madison l'avait même rempli de poil à gratter si je me souviens bien... Mais ce n'est plus qu'un mauvais souvenir. Merci pour le cadeau, mon chéri.
+53|Non, mais préviens-moi quand tu en auras trouvé. Je veux vraiment décompresser.
+54|Euh... C'est cool, mais que dois-je en faire ?
+55|Cool ! Mais attends, tu as un briquet ?
+56|Trop cool ! Merci beaucoup ! Je vais en profiter dans un coin un peu plus privé, si ça ne te dérange pas. Merci pour ce cadeau. Maintenant nous sommes quittes.
+57|Waouh. Tu devrais peut-être y aller mollo sur l'alcool...
+58|Oh ! Je ne savais pas que nous étions à ce genre de soirée... continuez !
+59|Hum. Non seulement ton machin est de sorti, mais en plus... Je vais plutôt aller voir ailleurs...
+59.1|Range ta bite, monsieur le clown de service. Tu devrais aller consulter... Y a des tâches qui ne devraient pas exister...
+60|C'est bizarre. Ok, je vais aller voir ce qu'il peut bien me vouloir. Merci !
+61|Hum, attends trente secondes que je réfléchisse... Ok, où dois-je signer ?
+62|En fait, ça dépend. C'est pour quelle cause ?
+62.1|Seulement si c'est une pétition pour que tu sois expulsé du pays à tout jamais. Barre toi de ma vue.
+63|Hum. C'est déjà légal ici, idiot.
+64|Je ne sais pas si tu essayes d'être drôle, coquin, ou mignon, mais quoi qu'il en soit, tu as échoué.
+64.1|Bon, s'en est trop. Même si mes seins sont gigantesques et que je porte des sandales en bois flotté, ça ne m'empêchera pas de te casser la gueule si tu continues.
+65|Je suis un peu occupée en ce moment. Repasse me voir plus tard.
+66|Mon dieu, c'est un peu comme avoir les clés du royaume, si tu vois ce que je veux dire. On pourrait... jeter un coup d'oeil au contenu du téléphone de Madison... pour voir si elle cache quelque chose... d'intéressant.
+67|Arf, dommage. Après l'avoir laissé dans la salle de bain aussi longtemps, la paranoïa de Madison va encore atteindre des sommets. Elle va certainement changer tous ses mots de passes demain à la première heure. Essaye de lui emprunter, je te promets que ça en vaut la peine.
+68|C'est instinctif. J'ai recablé mon cerveau afin d'être constamment à l'affût d'une manière de me venger de Madison. Si notre mère voyait la façon dont nous nous traitons l'une l’autre, elle nous aurait déjà traîné sur le trottoir devant la maison pour nous forcer à nous tenir la main jusqu'à ce que dix voitures rouges soient passées.
+69|La suite ? Tu me donnes son téléphone pour que je... Merde !
+69.1|Ah, te voilà. Juste au moment où je pensais que tu avais laissé tomber notre farce. Alors, est-ce que tu as dû la supplier à genoux pour le récupérer ? Ou est-ce que Madison est tellement tête en l'air qu'elle vient de le redonner... Merde, Patrick vient vers nous ! Elle n'a quand même pas envoyé notre cousin pour récupérer son téléphone quand même ?
+70|Patrick, ce n'est vraiment pas le moment. Nous étions en pleine conversation. Je vais venir te voir dès que je suis disponible et on pourra... bavarder.
+71|Bon, d'accord. Je te suis, Patrick. Désolé, je dois lui consacrer un peu de temps... Ce qui devrait te laisser suffisamment de temps pour fouiller le téléphone de Madison. Récupère aussi son journal intime, ce n’est pas comme si j'avais des poches sur cette robe... Par contre, rends-moi un énorme service : viens me chercher près du feu de camps dans quelques minutes et fait comme si c'était une urgence. Ou sinon, trouve un moyen de me débarrasser de Patrick.
+72|Retrouvons-nous là-haut dès que Madison et Derek s’envoi en l’air !
+72.1|Quelque chose me dit que tu as raté une étape essentielle de ce plan. Je n'entends pas de bruits de pas monter les escaliers... Va chercher Derek et Madison, imbécile !
+72.2|Fais-toi petit et tait-toi !
+73|Ha ha ha, ouais. Que de bons souvenirs. Oh, salut. Je ne m’attendais pas à te revoir de sitôt. Tout va bien ?
+74|Wow, c'est une urgence que je dois résoudre. Patrick, je suis désolée de ne pas avoir plus de temps à te consacrer, mais il faut que j'y aille. Il faut que j'aille résoudre ce problème immédiatement.
+75|Ah, la famille... quelle plaie. Merci de m'avoir sorti de là. Bon, sinon qu'as-tu trouvé sur le téléphone de Madison ?
+75.1|Attends, laisse-moi reformuler : pendant les quelques minutes où je discutais avec Patrick, tu en as profité pour faire chanter Madison avec ce que tu as trouvé sur son téléphone ? Ce n’est vraiment pas cool. Je ne veux plus jamais te revoir.
+76|Rien ? Je connais trop bien ma soeur pour savoir qu'il y a quelque chose de croustillant de planquer dans son téléphone. Tu ferais mieux de revérifier et préviens-moi dès que tu as quelque chose.
+77|Je le savais ! Je n'en attendais pas moins de la part de Madison ! Laisse-moi voir...
+78|Wow. Ces images sont parfaites pour me venger de Madison, mais je dois frapper avec une précision chirurgicale. Je ne veux pas juste les poster sur le web... Madison est quand même ma soeur et honnêtement, elle pourrait me mettre à la rue pour ça. Si seulement je pouvais utiliser ces photos d'une autre manière...
+79|En fait, je n'ai pas réfléchi plus que ça à ce plan... Je ne pensais pas qu'on y arriverait... Mais maintenant qu'on y est, autant continuer, non ? Demande autour de toi, peut-être que quelqu’un aura une bonne idée de la manière d'utiliser ces photos. Je vais faire de même. Mais SURTOUT ne dis pas qu'il s'agit de photos de Madison. Ca pourrait se retourner contre nous, et de façon rapide.
+80|Non, non, pas du tout, mademoiselle Vixen. Désolé, je suis Ashley, vous ne me connaissez pas. D'après ce que j'ai entendu de votre conversation, je pense que je dois clarifier les propos de mon ami. Ce qu'il voulait dire, c'est qu'il a en sa possession des photos de nu d'une très belle femme dans diverses positions, et que vous pourriez, comment dire... trouver comment utiliser ces photos à bon escient.
+81|Oui, c'est une excellente idée. Nous aimerions savoir si cette personne serait en mesure de faire carrière... dans le monde des films pour adultes.
+82|Parlez moins fort ! Si nous vous montrons ses photos, c’est parce qu'elle est trop timide pour le faire elle-même.
+83|Nous comprenons et nous voyons ce dont vous voulez parler. Donc, si nous arrivons à mettre en place une sorte d'audition et que vous voyez Madison à l'oeuvre, alors vous pourriez peut-être la recommander à votre... maquereau ?
+84|Oui, ça serait parfait. Nous allons nous occuper de tout mettre en place et nous vous préviendrons quand tout sera prêt. Par contre, mademoiselle Vixen, pouvez-vous me rendre un service et garder tout cela secret s'il vous plait ?
+85|Comment ça "notre" farce ? Je ne crois pas. Au mieux, tu n'es que mon apprenti.
+86|Sérieusement ? Je ne les aurais jamais imaginés ensemble ces deux-là... Madison ne me parle jamais de ses petits copains. Comment le sais-tu ?
+87|Merde alors ! Ca serait parfait. Nous n'avons plus qu'à les faire monter tous deux à l'étage pour faire des cochonneries, tout en s'assurant que Vickie les voit à l'oeuvre. Wow, je devrais peut-être me lancer dans les farces de manière professionnelle... Bref, je me charge de Vickie et tu t'occupes de faire grimper les deux tourtereaux à l'étage.
+88|Supposons que tu sois Madison. Est-ce que tu me ferais confiance, si moi, ta soeur rancunière, essayait de te brancher avec un gars super mignon ? Ne serais-je pas en train de te jouer une farce ?
+89|Vickie et moi allons attendre ton signal. Puis nous courrons à l'étage et nous cacherons dans le placard dans la chambre de Madison. Essaye d'y aller aussi avant que Madison et Derek ne rentre dans la chambre. Il faut absolument que tu profites de ce grand moment.
+90|Hum... Ballade-toi torse nu. Montre-moi un avant-goût de ce que je pourrais avoir si tout se passe comme prévu.
+91|Arf, tant pis. Que veux-tu faire comme signal ?
+92|Bon, à bientôt. Je crois en toi cupidon. C'est parti !
+92.1|Comme un oiseau ? Sérieusement, comme un oiseau ? Comme tu veux. Bon, à bientôt. Je crois en toi cupidon. C'est parti !
+93|Oh mon dieu, oh mon dieu, oh mon dieu ! Vickie, dépêche-toi de prendre des photos. Je ne sais pas si Derek va pouvoir endurer ça encore longtemps.
+93.1|Mrphpmh. Vickie, dépêche-toi d'envoyer ce film. Je ne sais pas si Derek va pouvoir endurer ça encore longtemps.
+94|Coucou soeurette, je ne savais pas que tu avais autant de talent ! Derek, toi aussi, bel étalon, beau travail.
+95|Ben oui, Madison ! Puisque tu es tellement culottée, je pensais que tu voulais montrer tes talents devant tout le monde, tu vois. Et c'est parfaitement ce que tu as fait : Vickie a filmé votre petite escarmouche. Elle a tellement adoré tes compétences qu'elle a même envoyé ton film à son agent. Tu te rappelles bien de sa profession ? Actrice porno.
+96|Bien joué. Viens avec moi, il est temps pour mon apprenti d'apprendre une dernière leçon de sa très, très impressionnée maîtresse.
+97|Farce accomplie ! Mon dieu, as-tu vu la tronche que faisait Madison ? Il ne te reste plus qu'un dernier test à passer en tant qu'apprenti. Approche-toi et enlève les sandales de ta maitresse qui lui ont ruiné les pieds toutes cette soirée. Allez, dépêche-toi.
+97.1|Farce accomplie ! Mon dieu, as-tu vu la tronche que faisait Madison ? Il ne te reste plus qu'un dernier test à passer en tant qu'apprenti. Approche-toi et enlève les sandales de ta maitresse qui lui ont ruiné les pieds toutes cette soirée. Allez, dépêche-toi. Oh, et assure-toi que la porte est bien verrouillée.
+98|Wow, c'est tombé tout seul... J'ai bien un autre vêtement qui tombe aussi tout seul... Oups, est-ce que tu pourrais y jeter un oeil ? Hum... Que devrais-je faire d'après toi ?
+98.1|Wow, c'est tombé tout seul... J'ai bien un autre vêtement qui tombe aussi tout seul, et je pense que tu sais très bien du quel il s'agit... Oups, est-ce que tu pourrais y jeter un oeil ? Hum... Que devrais-je faire d'après toi ?
+99|Dégrafe mon haut pour moi. Cette agrafe ne tient que par un fil. J'ai cru qu'elle aurait lâché à un moment ou un autre ce soir. Heureusement, tu seras le seul à voir le résultat.
+100|Oh mon dieu... Quand Madison et moi étions jeunes et que nous nous chamaillions, notre mère nous forçait à nous tenir par la main devant la maison jusqu'à ce que 10 voitures rouges soient passées devant la maison. Et à l'époque, nous habitions dans un tout petit village paumé dans la campagne, ça prenait des heures...
+101|J’ai une idée : Il faut juste que Vickie filme Madison en train de faire des cochonneries avec quelqu'un. Ensuite, Vickie n'aura plus qu'à envoyer ce fil à son agent ! Il ne reste plus qu'à trouver un partenaire pour Madison...
+102|Vickie... Oh, Vickie, Vickie Vixen... Je me suis toujours demandé pourquoi elle n'a pas mis trois X dans son nom... C'est une bonne idée. Parle-lui et voit ce qu'elle peut en faire.
+103|Cette salope hautaine ? Je ne pense pas que ce soit une bonne idée... Elle est impitoyable... Je ne cherche pas à ruiner complètement la réputation de ma soeur... Quoi que... En y réfléchissant un peu... Non. Trouve quelqu'un d'autre.
+104|Je t'arrête tout de suite. Je ne veux pas en entendre plus. Au dernier repas de famille, il nous a dit qu'il gérait un site de partage de vidéos en ligne ou quelque chose comme ça. Et c'est tout ce que je veux savoir au sujet de ses affaires. De plus, c'est notre cousin... Je sais que nous sommes nées dans un petit village, mais ce n'est pas une raison.
+105|Hum... Il n'y a pas beaucoup de candidats ce soir et comme Patrick est notre cousin, ça l'exclu directement. Il ne reste plus que Frank et Derek... 
+106|Ah non, pas toi. J'espérais qu'après cela... Laisse tomber. Tu ne peux pas être candidat, tu fais partie du plan. Il n'y a que deux candidats : Frank et Derek. Débrouille-toi pour que l'un des deux fasse l'affaire.
+107|Chut ! Ne ruine pas tout avant même que ça ait commencé. Vickie, sort ton téléphone et prépare-toi à filmer. Et toi, ouvre un PEU les portes dès que tu penses qu'ils sont trop occupés pour le voir. Tu as le droit qu'à un seul essai !
+108|Oh putain, qu'est-ce que tu fous ? Ce n'est pas le moment ni l'endroit d'avoir la gaule !
+109|Espèce d'enfoiré. Pourquoi maintenant ? De tous les temps, pourquoi maintenant ?
+110|Pour le bien de cet enregistrement... Rapproche-toi et laisse-moi m'occuper de ton cas.
+111|Hum, ne le prends pas mal, mais je n'ai pas envie de recevoir ça de ta part. Mais alors, pas du tout.
+111.1|Casse-toi. Il n'y a rien de ce que tu peux me donner qui te fera pardonner de t'être comporter comme un con. Enfin, presque rien, mais certainement pas ça.
+111.2|Tu ne comprends vraiment pas ce qui pourrait faire un bon cadeau, parce que ça, c'est juste de la camelote. Même si ça vient de ta part, c'est juste de l'adorable camelote... Mais je n'en veux pas pour autant.
+112|Tu as vu ce que Frank a fait ? Je sais que mon cousin est un imbécile doublé d'un pervers mais Patrick est gentil. C'est juste l'alcool qui parle. Frank ne devrait pas avoir le droit de tabasser impunément les gens comme ça pendant une soirée.
+113|Eh bien, je doute que Madison le reconnaisse, mais je vis également ici... Donc d'un certain point de vue, oui.
+114|C'est gentil de ta part. Je suis ici si tu as la moindre question au sujet de nos invités, y compris moi-même. En tant que co-hôtesse de cette soirée, je serais super déçue si tu ne sens pas le bienvenu.
+115|Allez, dépêche-toi de la sortir ! Si mes genoux deviennent rouges, les gens vont se poser des questions.
+115.1|Magne-toi le cul !
+116|Tu as réussi à venir ! Entre vite et fermer les portes derrière toi... Allez, On se dépêche !
+117|Oh, désolé, Madison et, euh... Derek. Mes amis et moi-même étions tout simplement à la recherche d'une boucle d'oreille que j'aurais perdue par ici. Nous allons vous laisser la place... Encore désolé !
+118|Oh, tiens, c'est le trou du cul qui a ses doigts qui glisse... Bonsoir, trou du cul.
+119|Wow ! Quelqu'un est fier de ses pectoraux. Et je vois très bien pourquoi.
+119.1|Est-ce toujours la façon dont tu te présentes ? Tu te la joue Casanova des temps modernes, n'est-ce pas ?
+119.2|Me montrer tes pectoraux ne va pas te faire remonter dans mon estime. Tu restes toujours un con de toute façon. Casse-toi.
+119.3|Hum, c'est le signal ? Je vais supposer que non, et que tu t'entraines juste à faire le signal...
+120|Regarde devant toi et surtout, reste en dehors de la prise de vue.
+121|Hum, je pensais que ça se passerait différemment... Euh, on remet ça à une autre fois, je suppose. Tiens-moi au jus.
+122|Tu as vu ce qui est arrivé à Patrick ? Je sais que mon cousin est un imbécile doublé d'un pervers mais Patrick est gentil. C'est juste l'alcool qui parle.
+122.1|Tu as vu ce que Madison a fait ? Je sais que mon cousin est un imbécile doublé d'un pervers mais Patrick est gentil. C'est juste l'alcool qui parle. Madison ne devrait pas avoir le droit de tabasser impunément les gens comme ça pendant une soirée.
+122.2|Tu as vu ce que Frank a fait ? Je sais que mon cousin est un imbécile doublé d'un pervers mais Patrick est gentil. C'est juste l'alcool qui parle. Frank ne devrait pas avoir le droit de tabasser impunément les gens comme ça pendant une soirée.
+123|Oh, je pense que tu as entièrement raison à ce sujet. Commence par ta chemise, puis, sans doute, ton pantalon, non ? Bref, je pense que c'est une bonne idée.
+123.1|Oh, je pense que tu as entièrement raison à ce sujet. J'ai même l'impression que tu as déjà commencé à te dévêtir tout seul. Continue comme ça, c'est une bonne idée.
+124|S'il te plait, rends-moi mes vêtements ! C'est trop humiliant !
+124.1|Pas maintenant, je ne peux pas parler.
+124.2|Je ne sais pas si c'est de ta faute ou celle de Madison, mais je vais te trucider.
+125|Dis-moi ce que tu aimes, bébé.
+126|En piste. Je te promets que je vais te chevaucher plus de 9 secondes.
+126.1|Je pourrais faire une blague salace, mais je ne pense pas que notre public apprécie.
+126.2|Rien de mal avec les traditions, non ?
+126.3|Je dirais en 69.
+127|Ne me dis pas que tu es en train d'envoyer des textos pendant que nous faisons l'amour...
+128|Ecoutons-le, mais surtout ne t'arrête pas ! Je pense savoir qui a essayé de la joindre !
+129|Je n'arrive pas à croire que je vais écouter la voix de ce cochon pendant que tu me baise.
+130|Wow. Ouais, wow. Quel délicieux moment. Mon dieu, quelle soirée, non ?!!! Je vais retourner en bas et me délecter de ma victoire... Je vais être de bonne humeur toute la nuit. Préviens-moi si tu es chaud pour... un autre tour d'honneur.
+130.1|Wow. Ouais, wow. Quel délicieux moment. Mon dieu, quelle soirée, non ?!!! Je suis vraiment ravie que tu sois venu. Tu t'es avéré être juste ce dont j'avais besoin. Préviens-moi si tu es chaud pour... un autre tour de ma chambre.
+130.2|Wow, quelle endurance ! Ca ne va pas être facile de devoir choisir les meilleurs moments de cette soirée... Bon, on se retrouve en bas.
+131|Effectivement... Tu pourrais même peut-être m'aider avec ça... à l'étage.
+131.1|Oh, bien sûr ! Je veux dire, il y a certainement plus à voir, beaucoup plus.
+131.2|Ouf, tu vas devoir attendre quelques minutes de plus pour que je puisse reprendre mon souffle. Super accroche, mais il te faudra l'utiliser de nouveau un peu plus tard.
+132|Tu as totalement raison. Il faut que je garde l'objectif en vue : humilier Madison de la pire des façons
+133|Bah merde, regardez-moi ça ! Comment as-tu obtenu ça avec Frank qui rôde autour ? Peu importe, j'accepte avec joie ce cadeau. Encore quelques-unes et je ne penserais même plus à la garce qui me sert de soeur pour le reste de la nuit. Ca, ce serait pas mal.
+133.1|Laisse-moi faire un petit calcul rapide. Une boisson gratuite déduite du montant total de ton comportement de trou du cul de ce soir... Hum... Tu es toujours un trou du cul. Je vais quand même boire ça, mais ça ne te fera pas pardonner pour autant.
+134|Tu n'arrêtes pas de me faire des cadeaux ! Je suis impressionné, surtout que Frank aurait déjà dû mettre la holà à ton petit manège, surtout si les boissons disparaissent de sa vue... Comment fais-tu pour en récupérer ?
+134.1|A l'école, le prof nous a parlé d'une sorte de Dieu, ou de géant, je ne me souviens plus. Bref, ce type faisait rouler un rocher jusqu'en haut d'une colline et arrivé en haut, ce rocher roulait jusqu'en bas. Donc ce type devait retourner en bas et faire rouler ce rocher jusqu'en haut, et rebelote, sans arrêt.
+135|Attends, tu ne serais pas le fils caché de Columbo ? Ca fait 9 mois que j'ai emménagé ici et je ne sais toujours pas où Madison a caché la clé de toutes les salles de bains. Tu te points à la soirée de ma garce de soeur, et tu trouves facilement de l'alcool sans avoir jamais mis les pieds ici auparavant ! Tu es génial, vraiment génial. Maintenant, si seulement tu pouvais faire apparaître de la beuh...
+135.1|Trouver des bières, c'est le seul truc pour lequel tu es doué. Me rendre ivre lors de la soirée de ma salope de soeur, ce n'est pas un problème pour toi, n'est-ce pas ? Mais pour ce qui est d'être un gentleman quand ça compte vraiment ? Faut pas déconner, tu préfères exhiber mes seins à la vue de tous... Et si tu me trouvais de la beuh pour me prouver à quel point tu es un mauvais garçon ?
+135.2|Attends, tu ne serais pas le fils caché de Columbo ? Ca fait 9 mois que j'ai emménagé ici et je ne sais toujours pas où Madison a caché la clé de toutes les salles de bains. Tu te points à la soirée de ma garce de soeur, et tu trouves facilement de l'alcool sans avoir jamais mis les pieds ici auparavant ! Tu es génial, vraiment génial. Maintenant, si seulement tu pouvais faire apparaître de la beuh...
+136|Eh bien, ton secret est en sécurité avec moi, aussi longtemps que je sois raide bourrée, ce qui ne devrait plus tarder. Mon dieu, si ça arrive, Madison va avoir un réel problème à gérer : Moi.
+136.1|Ce type mythologique, c'est toi... en ce moment... car tu essayes de me séduire à grand coup de boissons gratuites. Certaines collines ne sont pas franchissables. Je vais quand même accepter ton cadeau : ça m'aidera à t'oublier ainsi que Madison. C'est tout ce qui m'importe maintenant.
+137|Tu te débrouilles comme un chef si c'est ce que tu veux faire de moi. Si tu ne l'as pas déjà remarqué avec le comportement de Patrick, mais notre famille ne tient pas très bien l'alcool. Mais bon, j'emmerde Madison, si tu vois ce que je veux dire ? Laisse-la tomber elle et toutes ses manigances. J'en ai plein le cul.
+138|Putain, tu as totalement raison : je dois absolument le faire. Je parie que tu viens aussi d'une famille comme la mienne, où ta soeur est une vraie garce et qui met de la mayo dans ton soutif... push-up en dentelle qui a fait voir à Danny Roberson des putains étoiles ! Ta soeur n'a jamais mis de mayo dans ton putain de soutif, hein ? Parce que ça ne part pas la mayo dans un soutif ! Et puis merde, je vais lui dire ces quatre vérités. Je vais le faire *hic* immédiatement, merde.
+138.1|Et qu'est-ce que tu en sais ? Je parie que tu viens d'une famille où ta soeur a toujours été gentille avec toi et n'a jamais mis de mayo dans ton soutif... push-up en dentelle qui a fait voir à Danny Roberson des putains étoiles ! Ta soeur n'a jamais mis de mayo dans ton putain de soutif, hein ? Parce que ça ne part pas la mayo dans un soutif ! Et puis merde, je vais lui dire ces quatre vérités. Je vais le faire *hic* immédiatement, merde.
+139|Et en plus, je me casse la gueule...
+140|Madison, HE MADISON. J'ai quelque chose à dire...
+141|Ferme-la. Ca ne pue pas l'alcool, c'est juste l'odeur de tes conneries. DE TES CONNERIES. Et j'en ai marre de l'odeur de tes conneries ! Tu me traites comme de la merde tout le temps avec tes CONNERIES.
+142|Tu penses que je suis là pour parler ? Je ne veux pas te parler ! Je veux te casser la gueule, salope ! Ca fait trop longtemps que ça dure, Madison. Je vais te casser la gueule !
+143|Ouais, comme je ne vais pas te le cacher : j'aime fumer de la beuh. C'est certainement ma drogue de prédilection, même si je ne suis pas contre un bon verre d'alcool... En fait, je compte aller à l'étranger dans quelques mois pour voir ce qu'ils savent produire, si tu vois ce que je veux dire... Bref, j'aimerais bien fumer un peu de beuh, là, tout de suite, maintenant. Vois si tu peux en trouver, et sache que je ne suis pas contre un autre verre !
+143.1|Putain de Derek, pas capable de tenir un secret... Comment est-ce possible qu'il ne parle jamais de ses problèmes familiaux, mais qu'il prend un malin plaisir à vendre la mèche à propos de moi, comme si de rien n'était ? J'aime fumer de la beuh. C'est certainement ma drogue de prédilection, même si je ne suis pas contre un bon verre d'alcool... En fait, je compte aller à l'étranger dans quelques mois pour voir ce qu'ils savent produire, si tu vois ce que je veux dire... Bref, j'aimerais bien fumer un peu de beuh, là, tout de suite, maintenant. Vois si tu peux en trouver, et sache que je ne suis pas contre un autre verre !
+144|Je n'ai pas fini la précédente... Laisse-moi quelques minutes, le temps de la finir.
+144.1|Ah non, plus jamais. Eloigne cette merde loin de moi.
+145|Ouais, j'emmerde Madison.
+146|Espèce d'idiot. Tout allait si bien, et il a fallu que tu foutes tout en l'air. Tu n'es plus mon apprenti.
+147|Eh bien, merci en tout cas. Maintenant, je vais pouvoir passer le reste de cette soirée à préparer ma vengeance. A plus.
+148|Nous avons toutes sortes de gens ici. Je ne vais pas te mentir, la plupart sont des amis de Madison. Même s'ils m'ont accepté dans leur groupe, je suis sûr que Madison déteste ça. Mais ouais, tout ce monde semble sympa. Sauf Frank.
+149|En fait, comme je ne sais pas qui tu as déjà croisé ou non, je fais tous les passer en revu. Stéphanie, Katherine, Rachael, Amy... ce sont toutes des copines que Madison s'est fait à l'école. Patrick est notre cousin, et c'est à peu près la seule raison pour laquelle il est ici ce soir... et Frank, qui n'a aucune raison valable d'être là. Oh, et j'oubliais Derek, qui connaît ma soeur je ne sais trop comment. C'est ton ami, non ?
+150|Euh, ce n'est pas très sympa, mais bon... En fait, je dois filer. Va voir, euh... Rachael.
+151|Hé, désolé, je suis un peu occupée en ce moment. Nous pourrons peut-être parler plus tard.
+151.1|Tu dois vraiment apprendre à laisser respirer les gens. Casse-toi de ma vue et laisse-moi me détendre.
+151.2|Je n'ai vraiment pas envie de parler avec toi maintenant. Pas tant que tu ne changes pas de comportement. Repasse plus tard.
+152|J'aimerais en savoir plus sur vous deux. J’ai l’impression qu’il peut être un pote, toujours là pour ses amis. Et s'il en est de même pour toi, alors tu mérites qu’on fasse plus ample connaissance.
+153|Vraiment ? Ah oui, maintenant que tu le dis... La nana blonde qui si dure envers elle-même. Exact, j'ai oublié de t'en parler. Je ne l'ai pas fait exprès, c'est juste... qu'elle reste dans son coin et ne parle avec personne. Si je la connaissais mieux, j'irais la voir pour lui dire qu'elle n'a pas de raison de s'inquiéter. Mais je viens à peine de la rencontrer et on a à peine discuté 3 secondes.
+153.1|Brittney ? Ah oui. Je me sens vraiment mal pour cette nana. Elle est si dure envers elle-même et sans aucune raison en plus. Si je la connaissais mieux, j'irais la voir pour lui dire qu'elle n'a pas de raison de s'inquiéter. Mais je viens à peine de la rencontrer et on a à peine discuté 3 secondes.
+154|Tu comptes vraiment faire ça ? Ca serait vraiment génial. Et dire que je pensais essayer de te voler ton numéro de carte bleue... Je rigole ! Mais, si tu veux bien me le donner...
+155|Je suppose que oui. Comme je suis une sorte de co-hôtesse, ce n'est pas très sympa de ma part, mais bon. Tant pis pour la blonde à gros seins qui reste dans son coin à l'étage !
+156|Tu as réussi à faire sortir Brittney de sa cachette, félicitations ! J'ai vraiment du mal à te cerner. Tu débarques ici, sans connaître personne et tu commences à transformer cette soirée en grande fiesta. C'est très... euh... sexy. Je vais y aller, à plus tard.
+156.1|Eh bien, tu es peut-être un imbécile fini avec une paire de bras, mais bon travail pour avoir réussi à faire sortir Brittney de sa cachette. Dis à ton psy que les médocs qu'il t'a prescrits font enfin effet. Bas les pattes et essaye de profiter de cette soirée.
+157|C'est de loin la meilleure chose que j'ai vu de la soirée. Je ne sais pas si la tâche se voit encore sur mon haut, mais j'ai eu un accident similaire il y a peu : Madison a apparemment "glissé". Merci de m'avoir vengé. Peut-être pourrions-nous voir ensemble jusqu'où on peut la pousser ce soir... Tu vois ce que je veux dire ?
+157.1|Eh bien, juste au moment où je pensais que tu n'étais qu'une perte de temps, tu assouvie ma vengeance. Je ne sais pas si la tâche se voit encore sur mon haut, mais j'ai eu un accident similaire il y a peu : Madison a apparemment "glissé". Je crois qu'il y a au moins un côté positif à ton comportement d'enfoiré. Bien joué.
+157.2|Oh mon dieu, je regrette de ne pas avoir vu ce que tu as fait à Madison, mais on me l'a raconté. Bien joué ! Je ne sais pas si la tâche se voit encore sur mon haut, mais j'ai eu un accident similaire il y a peu : Madison a apparemment "glissé". Merci de m'avoir vengé. Peut-être pourrions-nous voir ensemble jusqu'où on peut la pousser ce soir... Tu vois ce que je veux dire ?
+157.3|Eh bien, juste au moment où je pensais que tu n'étais qu'une perte de temps, tu assouvie ma vengeance. Putain, je regrette tellement d'avoir raté cette bière qui se renverse sur Madison ! Je ne sais pas si la tâche se voit encore sur mon haut, mais j'ai eu un accident similaire il y a peu : Madison a apparemment "glissé". Je crois qu'il y a au moins un côté positif à ton comportement d'enfoiré. Bien joué.
+158|Merci de m'avoir rapporté son journal intime. En fait, j'ai une idée pour vraiment me venger de ma soeur, mais pour ça, j'ai besoin de te faire un peu plus confiance avant de t'en dire plus. Continuons de profiter de cette soirée. Je vais bien voir si tu as ce qu'il faut pour être mon apprenti.
+159|Bon, je suppose que tu n'es pas Arnold Palmer, ou Benedict Cumberbatch ? Je sais plus. Bref, je sais que tu ne vas pas te retourner contre moi. Laisse-moi ouvrir ce journal...
+159.1|Monsieur, vous devez me confondre avec une autre belle brune. Je n'ai aucune idée de ce dont vous me parler. T'es aveugle ou quoi ? Madison est juste à côté. Ferme-la et viens me retrouver un peu plus tard.
+160|Hé ! Qu'est-ce que... Oh, désolé. J'ai cru que tu voulais dégrafer mon haut pour exhiber mes seins devant tout le monde... Merci beaucoup d'avoir remis l'agrafe correctement. Si l'agrafe saute sur un haut comme celui-là, ça peut vite devenir humiliant. Merci encore, bébé.
+160.1|Hé ! Bas les pattes, gros pervers... Oh, désolé. J'ai cru que tu voulais dégrafer mon haut pour exhiber mes seins devant tout le monde, alors qu'en fait tu étais en train de remettre l'agrafe correctement. Merci bien... A plus.
+161|L'homme de la soirée ! Je suis ravie que nous n’arrêtions pas de tomber l'un sur l'autre. Même si j'aurais vraiment apprécié que tu arrives une minute plus tôt pour me sauver du speech d'Amy. Elle essaye de me convaincre de rejoindre sa sororité. D'être une de ces diablesses... Donne-moi ton âme...
+161.1|Salut, l'homme de la soirée.
+161.2|Mon dieu, tu ne peux plus te passer de moi, n'est-ce pas ? Je peux dire que le sentiment est mutuel...
+162|Hum, C'est ça que tu veux ? Eh bien, dans ce cas, je vais te montrer ma chambre. Peut-être que je pourrais prendre ma première âme pour l'avenir de ma sororité... Allez, suis-moi.
+162.1|Un autre tour, hein ? Je crois que je comprends pour quelles raisons tu veux ça. Il y a tellement de choses à voir. Viens, suis-moi.
+162.2|Je suis désolé, mais ce guide touristique n'est pas encore remis de sa dernière tournée. Veuillez lui donner encore quelques minutes pour recharger sa batterie.
+163|Assieds-toi.
+164|Donc, comme tu peux le voir, je n’ai qu'un tas de babioles. Quand j'ai emménagé avec Madison, je n'ai pas vraiment apporté beaucoup de mes affaires parce que je suis sûre qu'elle les jettera au feu si je n'y fais pas attention. Un autre classique des farces ou techniques de guerre de Madison : bruler mes affaires. Quand j'ai vendu plus de cookies qu'elle en tant que scout, elle a brûlé ma ceinture. La dernière fois que je draguais un mec qui lui plaisait, elle a brûlé toutes mes culottes... Et aussi la maison du mec... Mais je ne crois pas que je suis supposée en parler... Voilà.
+165|Bon, est-ce qu'il y a quelque-chose ici qui t'intéresse ? Une question, peut-être ? Je sais, ce n'est probablement pas la chambre plus cool que tu aies déjà vue...
+166|En fait, non. Je ne sais pas en jouer. A l'époque, je l'avais acheté avec l'intention d'apprendre, mais l'envie m'est passée. Une fois, j'étais dans un bar et c'était la soirée nouveau talent. Une pouffiasse monte sur scène pour jouer... et, on mon dieu, c'était ignoble. Non seulement, elle ne savait pas jouer mais en plus elle était habillée comme une guenon. Bref, ça m'a coupé l'envie. Je n’ai pas du tout envie de ressembler à cette nana. Depuis cette guitare reste plantée là. Maintenant, je m'en sers juste pour cacher des choses à ma soeur.
+167|Ah, ce truc-là ? Ce n'est certainement pas pour du travail scolaire. Ne le répète à personne, mais de temps en temps j'aime bien fumer de l'herbe une fois que Madison est partie se coucher. C'est à ce moment-là que j'utilise ce tableau, pour écrire des messages comme "Siège de l'antenne locale des amatrices de grosses bites" ou "Réunions des Amateurs de Zoophilie Anonymes ici tous les Mardi"... Vraiment tout ce qui me passe par la tête. Ensuite, je l'accroche à la fenêtre et j'attends que quelqu'un vienne sonner à la porte.
+168|Oh non, je suis sérieuse. Je sais que j'habite ici aussi, mais ce n'est que temporaire, jusqu'à ce que je sois diplômée. Mais Madison compte rester ici longtemps.  J'aime croire que, dans quelques années, une fois que j'aurais déménagé dans un appartement chic du centre-ville, Madison soit en train de se frotter le clito devant un épisode de Camionneurs de l'Extrême lorsque qu'un SDF grisonnant sonne à la porte pour lui demander si c'est bien ici que la version nudiste de la soupe populaire... Il rappellera à Madison son camionneur préféré... elle l'invitera à... Bref, tu imagines très bien où je veux en venir ! Si ça se trouve, je lui ferais même une faveur...
+169|Dans le mil, cowboy. J'adore ta manière de penser. Alors, dis-moi, qu'est-ce qui t'attire chez moi ?
+169.1|C'est l'idée de me voir en représentation dans un bar merdique qui te fait de l'effet ? C'est pour ça que je t'ai raconté cette anecdote. Tu sais, un autre problème avec cette foutue guitare, c'est que ces deux obus sont toujours sur le chemin... Oups. Tu vois ? Ils font ce qu'ils veulent ! 
+169.2|Quelle partie de cette histoire te fait de l'effet ? Le SDF grisonnant ? Le camionneur ? De toute façon, je suis ravie que ça te fasse de l'effet, car toi aussi tu m'en fais depuis que je t'ai vu pour la première fois. Je pense que nous ferions mieux de passer aux choses sérieuses.
+170|Est-ce ceci ? Ils ont tendance à faire cet effet-là. Madison a peut-être cette maison, mais elle n'en aura jamais des comme ça. Allonge-toi, ne me fait pas attendre.
+171|Cette garce a eu ce qu'elle mérite ! Enfin ! Ouah... Je vais aller vomir.
+172|Je ne veux rien avoir à faire avec toi. Tu es littéralement le pire être humain que je n'ai jamais rencontré et j'en ai vu du monde. Quand j'avais 14 ans, mon drogué de voisin a essayé de mettre en gage ma perruche pour 30 balles et un paquet de 12 cuillères... Et tu es encore pire que ce gars-là. Si tu as une question, pose-la, puis casse-toi de ma vue.
+172.1|Quoi ?
+172.2|Parle.
+173|Tu te sens mieux maintenant ?
+173.1|Putain de trou du cul.
+174|Eloigne ça de ma vue. Si tu ne l'as pas déjà remarqué avec le comportement de Patrick, mais notre famille ne tient pas très bien l'alcool fort. Par contre, je ne suis pas contre une bière...
+174.1|Si je regarde une autre bouteille, je vais commencer à gerber partout et ça ne va pas être joli.
+175|S'il te plaît, baisse d'un ton. J'ai l'impression que tu hurles dans mes oreilles.
+
+[Responses]
+147348e3-1917-4751-a55b-957e24afcd31|Que puis-je faire pour gagner ta confiance ?
+3bbc6974-4901-4cae-9040-1259569dce8b|Ca marche. Dis-moi juste ce que je dois faire.
+9807d450-5edc-486a-bac9-984215aed402|Ce qui est exactement ce que nous allons faire.
+cd4906e7-beaa-436c-b629-c851af97595f|Je pourrais les mettre à laver pour toi !
+b19cf5af-b536-47ca-a4ad-ed3b81588e17|Il suffit de les enlever et de te promener torse nu. Ca ne me dérange pas. #LibérezLesTétons
+68dfbd09-3197-4490-ae34-5ee0e29efc34|Challenge accepté !
+3c9e38c5-6903-422e-baef-9ef801c48a4e|En fait, je l'ai déjà avec moi.
+2d83081a-acba-45ae-b84c-3226952be5f1|Oups...
+66bd173d-88f6-45fc-9596-0fc1bcfe3ffc|Euh, non ? C'est mon téléphone. Il doit juste ressembler au sien.
+53dcadb7-a199-4301-a038-e57c86469d39|Peut-être. Pourquoi cette question ?
+78ca8373-2150-49e8-bcc7-a5a5122cc2fb|Euh... Je ne vois pas pourquoi je ne pourrais pas aimer le rose ! Sexiste !
+5d0cad0f-65a5-4501-bad0-941a433a11d8|Je suis intrigué. Continue.
+a9bd11d0-0639-4b18-85cc-91ff067a96ca|Merci, mais non merci. Je ne suis pas intéressé.
+2ee4ae17-4e18-4094-aadd-9f533acf9c36|Je ne devrais probablement pas m'impliquer dans vos manigances.
+13ea1ab5-0692-46fb-8ec6-806fdc10406f|Je suis partant. Que veux-tu que je fasse ?
+1e0965e3-bb81-4f75-bad2-200843836f69|Je vais voir ce que je peux faire.
+32111746-30c4-4ac8-8800-e605e202c205|Je t'avais bien dit que j'y arriverais !
+89b41545-f10b-4589-ba25-8ca82360d8b7|Je t'avais bien dit que j'y arriverais !
+9e9e6bd7-6bde-4576-8999-46746a1338d1|Je t'avais bien dit que j'y arriverais !
+dae06600-259e-4237-ae06-d422f1e83dc9|Je te suis !
+fede9cb4-2289-4462-bace-f56efaa19d9b|De rien !
+67f17933-fdb9-4990-90e0-2ceceba5ac68|Oh oui, bien sûr !
+8ea2297e-4c75-46cc-871f-47eb25a357ab|(Continuer)
+efc9caa2-af86-4ad2-b36b-b2e2047cbfd3|Oups ! Je me demande bien ce qui a bien pu se passer.
+404ac620-8275-4da6-be5d-1d72d30fceb8|Pas de problèmes ! Je reviens immédiatement !
+3f6cece2-4928-485d-8bc2-60959ad3fb93|De rien !
+10a26b22-d597-4680-8b8e-8a9d67d38d30|(Ca promet d'être intéressant)
+126ff2a3-bba3-411c-b3e7-7a89becab96e|(Sifflote)...
+7701037e-d0a8-4493-a335-1925f94d1c6d|Waouh ! Quel spectacle !
+6d0f2a5f-6c3d-4ebf-8ab4-5b5bf494adf1|Parfait. Alors tu resteras comme ça toute la soirée. Voici la clé.
+b5d57200-6e25-4708-9b84-fabb287187c0|Je te donnerai la clé seulement si tu restes toute nue... Et que tu me donnes ta culotte.
+26a4e46f-1cd5-4ba9-a7b7-0622cc74c22f|Ca me semble être une bonne affaire !
+510ca494-6861-43c0-a74f-1af190d131fa|Mouhahaha.
+5be9afbc-a90c-4c7a-a2df-1f11fa5b4dd7|Oh que oui. Ne t'inquiète pas.
+abc67b02-4d7b-40f5-8475-e7449187086a|Tu verras bien...
+5dec9791-6d04-47c5-8ddf-f81686626cb4|Mission réussie !
+8c234981-1cbf-443c-95fa-d6997c9963a3|Oups.
+c0448dda-ed87-477b-847c-81b7ecbcdad1|Ouais !
+41509bb7-93da-4fe7-bad3-49909e26c939|Ca en valait vraiment la peine.
+bcaa762a-8b1b-49a5-8ec2-46131ef68a96|Ah, oui. Désolé, j'avais oublié que tu avais la bouche pleine...
+1108f7a3-a12c-4ea8-9377-0d3e7e88b74f|C'était l'idée de Madison. En échange, elle a promis de me donner le numéro de Vickie.
+c283db20-97b9-4d61-b727-337519a619e9|Je suis désolé. C'était très immature de ma part. Que puis-je faire pour me faire pardonner ?
+f18c4c10-d5fd-4169-a9bd-7336f89ec21c|Parce que j'ai laissé ma morale dans un club de strip-tease ?
+bd5b3ef4-d1aa-4dac-bb0b-f5dfd35f97ea|Dit comme ça...
+a700157a-a854-4b01-9485-87aa1ca07c8a|Tu dois avoir le sommeil super lourd...
+15c24879-0eba-45c6-9f84-eb93af7f4c7f|Mission réussie !
+d9570ee2-9825-4f94-9cde-f94a2fda83a7|Ok, désolé !
+8b7f8929-fe4d-48b2-b2cc-b761a5669de3|Merde alors...
+12903dfb-3c8e-490f-a38c-e7926f1298cb|Ouais !
+bfb360c1-7e5a-4765-87f6-d3b8a10fba07|Trop cool. La farce est de nouveau en route !
+4c9a046f-03e0-4cde-b635-6906880517c9|Je t'en prie !
+acb2aad7-61eb-4dfb-969f-6be7e4ca7f29|Mission réussie !
+da99cc8e-3fc2-4cfe-9f44-5b1b27b00524|C'est pour obliger Derek à enlever sa chemise.
+017ff312-3ceb-4226-a342-d89f169dc862|C'est pour légaliser la marijuana à des fins récréatives.
+87809d6b-1e36-4b2c-9de7-a98c4710487a|Dans ce cas, ok.
+0f227210-bf97-414d-bc5b-f95d987b086a|Oups...
+d7893948-7316-4b0a-af83-5e9bf1ff3882|Aïe. Ca pique...
+9d482039-b4b5-4794-8a12-8aea3c5a8314|Du calme, je ne faisais que plaisanter !
+e6df7fe7-9e65-4382-ba9d-c538078d38fd|Ah, oui...
+043ad31e-70ce-4e21-a1f0-5e7c6826b9ad|J'aime ta façon de penser.
+1355e5bd-72e1-4cb9-abdd-ac682bba405b|J'ai déjà rendu le téléphone à Madison...
+a82696f2-2762-458a-b78f-afec430386b5|Je vais voir ce que je peux faire.
+b29e09d2-1c00-45c9-903a-85889544a403|De quoi parles-tu ?
+183ba273-421f-4f83-95f5-98babb0c601f|Donc tu as son code pin et j'ai son téléphone... C'est quoi la suite ?
+52dd4c38-b9bf-4c3c-8693-09aa3c61b705|Oh ! Salut, Patrick.
+e2e04bf3-c669-4c47-9e2b-05aa863c659e|Parfaitement. Nous étions en train de parler de films post-modernes.
+12d59809-49fb-4a81-a33a-ca6d35ba4d76|Ok, à tout de suite.
+ef554920-ac96-4807-872a-95d4f30f92c1|Ok, à tout de suite.
+c0312cd7-f5c3-4f30-8048-075668962ef2|Il y a... le feu... dans ta chambre.
+34c5a4bb-98cf-45ca-9fc5-e5b3b3ed5a08|L'apocalypse de zombies a commencé.
+61914fd9-1260-4698-84e9-79280ab8449a|J'ai fait caca à un endroit où je n'aurais pas dû.
+082855f3-3281-44d9-885b-3093e21a3dbd|Tout à fait, c'est vraiment une urgence.
+c0d54b72-51c1-4157-814f-e14f17f1a60c|Une bonne quantité de photos d'elle nue.
+ee8eca91-8b34-4b37-a464-0ccaa37b9273|Oh, absolument rien. Désolé.
+0ca5b67e-a3a3-42c3-aba4-960a7ed54942|Comme tu veux.
+694da1e2-f1a4-4b9f-b40c-201e53ae7fe8|Ok, ok, merde.
+ca5773e5-1373-44f6-b032-0769eeb91633|Tiens, jette un oeil.
+1e68d72b-c40b-434d-a659-4a6bdd24c3f1|A quoi penses-tu ?
+bb4de63b-fa9a-48e2-80ab-a4dc7947bf45|Compris.
+940d0766-6430-41da-bef6-a8c72b7727f8|C'est exactement ce que je voulais dire !
+14abc5ab-e4f4-40ce-bdfd-696628aa3e8c|*Ecoute*
+ce208d19-0fff-47a2-bf4c-621d8ecbee37|Nous voulons essayer de lui donner un coup de pouce !
+0ec40d4d-8886-4f66-869e-bbb2efed1e36|*Ecoute*
+8ca2f638-c91d-4c33-847f-717841b31ad4|Motus et bouche cousue, Vickie
+37b554de-ac9d-4840-bfe1-c104183307e2|Ecoute-moi ! Derek et Madison pourrait certainement s'envoyer en l'air ce soir.
+c45f7894-39f9-428a-a87c-91392bfa99a5|Son journal intime contient bien plus que ses mots de passes. Ils l'ont déjà fait.
+db871996-2593-41b5-a23f-3486b6fdc214|Et pourquoi je ne m'occuperais pas de Vickie ?
+c14b07fa-b30e-4943-bf0e-211e22928acc|Ok. Et comment saurais-je que vous êtes en position ?
+5cb16903-2c1a-4ad5-aba3-1e72a2a98228|C'est pas faux. Je m'occupe des deux tourtereaux.
+5e1f9e48-4e0c-4e9d-b2d9-0d9a7e2f21e8|Et c'est quoi le signal ?
+896d7683-82c0-4809-a4e1-9efcd827d1da|Wow, ok. C'est faisable.
+be54a3f9-b38c-4a0f-8e61-f25b389e19b5|Non, je veux un autre signal.
+3de4c184-d05c-4b3c-ae5b-aaa328c1e75d|Je vais piailler comme un oiseau.
+f61b0108-9f00-4404-9cd0-adc3531384dc|En fait, je n’ai pas mieux comme signal. Va pour l'enlevage de chemise.
+95148294-b0e5-4c86-928a-4f6c0c088f86|C'est parti !
+e79e03d5-a02c-43d1-b344-e9b26554a09f|Baisse d'un ton !
+6b688db2-c1fc-4af4-85b4-2cc317f29400|Derek, je suis fier de toi !
+1d94e588-906e-4c4b-acd3-5f3bc7133091|*Ecoute*
+ce685e94-14ce-443a-ab7b-d5095c89a4b5|J'aime ce que ça veut dire.
+65734cb5-1c9a-4fe8-90da-b6bf15b06fe3|Je pense que je peux y arriver.
+01248673-86e4-4471-82c0-d4286ae16a7c|Je pense qu'il serait plus équitable si certains de mes vêtements commençaient à tomber...
+ef9d42e4-19c2-4982-babb-a194caae18f8|Donc tu as son code pin et j'ai son téléphone... C'est quoi la suite ?
+09e64463-b52b-4a02-86ba-3c4a46442b64|*Soupir* Je crois que je vais passer à la casserole.
+f7eb9f10-971e-48b6-b042-b22aa981f729|Derek !
+a2a85ce9-1e2b-4bb9-8a7f-6396375bec45|A qui penses-tu ?
+de6d6468-50cf-4e4d-86d4-7a4e637238c3|Ok.
+87430026-56c8-4f99-9599-f9bda948c957|Je lançais seulement une idée !
+92040fb8-6479-4b25-8647-2eaf28928208|Et moi ?
+ec128d81-a731-4fe6-9dca-87e896c25e93|Je vais voir ce que je peux faire.
+6195438a-5936-4096-aebf-844d1ac866d1|Je vais voir ce que je peux faire.
+3ec1363e-9e92-4413-9d6a-8aba3fd5a9d2|Ok, ça marche.
+b07cccd2-c4ca-4690-bed4-95ec88e38f3f|Je n'y peux rien, c'est tellement excitant.
+322df6fa-7c2f-47af-84b9-dd0d4569174e|Désolé, mais je dois le faire.
+b9072a8e-5629-4e6a-97b4-81e10636e895|Merci Ashley !
+a5beb37f-474d-4991-a025-0a37839f795c|Oups.
+d83e4902-8d94-4056-bc98-b8a276361c0f|Donc tu es bien la co-hôtesse de cette soirée.
+69c6f33a-3c08-4792-888d-7884fc28438d|Laisse-moi rentrer !
+504a08c3-6ee8-47c6-bf2c-143b431d4b9b|Merde ! Je suis désolé !
+63d0e714-2e61-4dc9-be73-1fba704ede86|Au final, je n'aurais pas subi ces séances de muscu pour rien.
+89227b04-087c-46e3-b1af-73550693fb28|Ok, ok.
+2edac4f1-f024-4347-9007-d16e2a70c11b|Pas de problème.
+46baf416-69ef-4829-b196-d77b54b4c051|Certes, mais ça t'a permis d'écourter la conversation...
+bc0ae3df-ff1a-4b2f-b399-95f1f8169d57|Je pense que tu es sur la bonne voie.
+63c086d4-e35d-4c3d-afb6-b609a3fc2c4f|Ok, c'est bon. Les voilà.
+b5f2ed97-67c0-41cb-96a3-bc1244ec41bd|Désolé, je ne sais pas de quoi tu parles. A plus !
+dc4096bf-a4e2-4d42-b161-62f1debf6cfa|Mon style, c'est en levrette.
+6a846ff0-4163-4702-bf73-85dbbd48ad82|La bonne vielle position du missionnaire.
+608c374a-fba7-4061-9bf9-2d800499ec66|Chevauche-moi, belle amazone.
+95766a4d-be00-4324-811a-7e79300a7eff|En quelle année a-t-on marché sur la lune ?
+a77a1620-3ee4-405c-970a-e04f0f610686|Me voici.
+625d1edf-096a-4af8-9b41-6afe49d9e331|C'est le téléphone de Madison. Elle a un message vocal !
+b8ec5473-1712-40b7-a58d-3489135407fe|Ok. Laisse-moi juste le temps d'accéder à sa messagerie.
+0f680ddd-85dd-4356-a281-ad1b82172ff2|Oh, bébé !
+f911be7b-837d-49cc-ad5b-7a872b0f882f|Tu seras la première informée, Ashley.
+da30a527-0902-424f-bd60-fc8e3ae4a618|Je te suis.
+4df55bfa-19f0-402e-a9dd-e4c4fd843c2e|Je comprends. A très bientôt.
+ed59e339-b0c3-415a-a566-4e39ae31979e|Ouais, au diable Madison !
+79fa4b3f-3941-4872-b0d1-622c7eb812b1|Je pourrais peut-être continuer à remonter dans ton estime avec plus d'alcool...
+91b68356-a98d-40a5-a10a-75960a4aab1d|Frank n'a pas récupéré tout l'alcool présent dans la maison. Il suffit de savoir où chercher !
+7e1edb9f-5577-408b-9497-0b9309d64374|Qu'est-ce que ça a à voir avec mon cadeau alcoolisé ?
+386b047f-a7fb-4f20-8297-a611730275e9|De la beuh ? Tu aimes fumer ça ?
+dd81b845-8e4d-4f6a-b159-ff79e65e7f40|Ha ! Derek m'avait prévenu que tu as un penchant pour ça.
+341715dd-900d-47ef-b6ce-95a386d8e57a|Entrez texte de la réponse ici.
+1b8ee2b1-1d59-47b2-b4d3-979e2bcaaa9d|Alors, je vais continuer à t'apporter des verres.
+ad9d24fb-471b-48e7-81b5-1944acd48e51|J'essaye vraiment. Peut-être que plus d'alcool aidera.
+af077b79-4a13-4415-9455-f2cdd172048b|Tu devrais lui dire comment tu te sens, afin de tirer les choses au clair.
+9d3768af-5b4c-46b1-bd11-08e3f609b8df|Ne t’approche pas de Madison dans cet état-là. Ca n'apportera rien de bon.
+72f5ff0b-3dff-4520-845f-fb22b199cf47|Merde alors ! Tant qu'à faire, autant voir ce que ça va donner...
+415d1f2a-cd62-4216-aae3-cd3eb48c1abd|Tu voulais parler à Madison, tu te souviens ?
+10d83f70-e9f8-4702-a12c-9da586dcff14|Ashley...
+713b4ccf-2cd7-46f8-9767-1ac470c81506|*Ecoute*
+345b6b08-7bdc-4a74-87da-f33aec84982e|Et c'est parti...
+cd3b9a12-c7b2-402d-a921-4f2101cacab0|Je vais voir ce que je peux faire.
+0e3e555a-c987-406b-b33b-f5913411f557|Ok.
+e5cc28a8-e5b8-40d4-abfa-e8fded26ae35|Vas-y, fonce !
+673df5e5-2d5a-4752-9d08-2148b4f60f40|Merde, je suis désolé.
+8af4ac5c-0380-4f26-ace5-739d8cf6f270|Je vais garder ça à l'esprit !
+25dc3d7b-6f60-40d8-914c-e2cec09619fa|Dis-m'en plus sur tes amis.
+eaa02750-657c-4cca-8bca-dc2bdd06aa63|Pas vraiment. Je me sers de lui pour draguer des filles lors de soirées comme celle-ci.
+fc4f462e-6c95-45df-9a2d-ab98d1e685f9|Ouais, Derek et moi nous connaissons depuis super longtemps. C'est mon meilleur pote.
+19d03fac-0721-4888-9469-60bdc40fb14c|Oh, ok. On reparlera ensemble plus tard.
+09fc7e75-fc68-4051-a7dd-3178d5f71484|Ok, à plus alors.
+c7344e86-47c0-4a9d-b84a-a8014b560724|J'espère bien.
+8128dca3-0e8d-4ffa-9744-d8717fd15fdc|Je vais l'aider à réaliser qu'elle n'a pas à s'inquiéter.
+ec8c026b-5edd-4a02-87a3-1c593cfe0fa6|Tant pis pour elle, cette soirée est à nous !
+4526dcee-3c9c-4ce9-b086-9f3d829c3af2|Je crois que ça commence par 4, je pense.
+a86a1259-58c7-42bc-b90b-da8068440979|Wahou !
+7fc66976-f42a-4f9a-8eed-e76b5fdb5e72|Eh bien, merci !
+c0170ac2-6907-4050-8200-75e13bfdac38|Ravi d'avoir pu te rendre service !
+fc12b23d-2e02-422e-8ab2-2927bc0f40a0|Hum... Ok.
+4b4deb89-eac8-41e7-93c4-fcebf4469a24|A quoi penses-tu ?
+457a7deb-96b1-4915-8009-1cf1d18f5fce|Oh, euh... Excusez-moi, belle inconnue.
+90f041cf-cef8-496d-999c-609da03baede|Ravi d'avoir pu t'aider !
+3c73c514-2a28-4e97-bccd-9a85152b179e|J'aimerais voir ta chambre.
+66a05f13-6246-4ac9-b2e6-a753fced0a91|J'aimerais un autre tour à l'étage... ainsi que du propriétaire.
+17834d6a-7c38-46b4-93c9-2f13a14d8325|Je te suis.
+f3fbad8f-0b16-4f33-aacb-0774d1d2b4d3|Je comprends. Je repasse te voir plus tard.
+9082fbc0-fc50-4997-93a6-78f700b31282|Sympa le canap !
+ecd30202-02ec-478a-904e-82a07ef6f1ef|Ok. Rejoins-moi
+40b99e18-fb7c-4511-8c12-539a72b1fdac|Tu sais jouer de la guitare ?
+dbc81bc2-5a34-49a2-809e-995f03831806|Quel genre de messages écris-tu sur ton tableau blanc ?
+b04ab4ba-d8fe-45c2-9bf2-94d6e590b83c|Oui, toi.
+e20d3f89-fcd3-4745-bdb6-2c695138f121|Et le tableau blanc ?
+9fca6367-65e1-4af8-820e-ae6fdb630ca5|Je pense que tu devrais essayer de jouer quelque chose. Après qu'on ait baisé.
+ebce93e4-48b4-4d2e-96f5-a7f731bbe13b|Attends, tu me fais marcher là.
+0ec2008d-f48b-4594-99a4-294c8e1e53de|Ok. Et sinon, tu sais jouer de la guitare ?
+23995d10-e638-4292-b6ca-3308e7bddad1|Curieusement, cette histoire m'excite un peu.
+44306bc8-c9fa-4f06-ad0f-62b02c77aa11|Eh bien...
+c059675c-8121-42f3-9dfb-c1a043dea2bb|Oui !
+6657e233-d5bd-4b00-9c7d-0ad71393c6b9|Ouah, voilà de quoi je parle.
+2f8b71c9-c772-4f24-9164-699af56b1f38|Tu n'aurais pas vu le téléphone de Patrick ?
+2db67911-ff7c-4886-8a9c-5457f83d5821|Je peux voir une certaine ressemblance entre Madison et toi.
+5f110e29-51b9-4cbc-923c-65721ae79b46|Tu es la soeur de Madison ? Je ne l'aurais jamais deviné. Tu es tellement plus belle qu'elle !
+8a662b23-9ee6-48e3-817b-e232c2a70e5a|Tout va bien ? Tu sembles un peu préoccupée.
+925642f5-363e-4d3e-ab5d-69a2fc144e09|Que puis-je faire pour t'aider après ce malencontreux "accident" ?
+7f61d5f8-1f5c-44ca-aa5c-89113a02d1c5|Je pense que j'ai déjà gagné ta confiance. Laisse-moi laver ces vêtements pour toi avant que ces tâches ne puissent plus être enlevées.
+995237fb-af23-4d10-ac74-aa2bfa2ea771|Ok, j'ai l'impression que nous sommes enfin seuls. Donne-moi ta robe que je puisse la mettre à laver.
+176fb7dd-298f-45a4-adec-e41dd9ca2ec7|Tout va bien ? As-tu besoin de quelque chose ?
+a2cf2a10-5ce2-478c-8cf2-f3ad85456de2|Ta culotte aussi a l'air d'être trempée. Veux-tu que je la mette également à laver ?
+65a2df1d-8015-4ae0-a417-34e015d806ab|Si ça peut te consoler, même si tu es toute trempée, tu restes encore craquante !
+c07da81b-e62e-4e60-a264-8d3f16216c08|J'ai vu Frank mater ton cul. Oh attends, en fait, c'était moi.
+3f1d2c13-6201-4b13-a423-473bbafee224|Alors, que dirais-tu de remercier de t'avoir sauvé la vie avec une petite pipe ?
+07f548c6-fcee-45e3-a911-f9673f82b3bc|Au fait, c'est quoi le problème entre Madison et toi ?
+f497c50b-1f56-4797-b93c-94514968b1fe|Zut alors ! Si seulement je louchais, j'aurais pu te voir en double.
+2b0abb98-537a-47f8-8a64-29989e4d2fec|Je suis vraiment désolé d'avoir dégrafer ton haut...
+bdcf4f6c-a574-4de9-9d55-acc6125b42b8|Je suis à la recherche d'un joint. Tu n'en aurais pas un ?
+5892286f-c4cb-4d76-a611-678e3311829f|Est-ce que tu veux bien signer cette pétition pour moi ?
+af48e5ff-e5b6-4744-aa6e-0a611520895d|Madison a des photos d'elle dénudée dans son téléphone !
+4f43a731-8827-4fe1-bb0c-df0c30d90d06|Vickie semble aimer les photos de nu.
+af2e3c88-286d-4a3a-a2c1-0ed3d59853d4|Je pense que Katherine peut nous d'aider avec ces photos de nu.
+1d9a0e37-dde4-4f11-8a63-ce790230741c|Patrick a un site de photos de nus que nous pourrions utiliser. Tu le savais ?
+56b354dc-9cb5-4674-8e1c-1dc22a79982f|Je pense que j'ai trouvé le "partenaire" idéal pour notre farce !
+8509a172-7cc3-43d2-abe8-cfcd863bfaf1|Ashley ! Alors, tu es la co-hôtesse de cette soirée ?
+a3ddbbab-a026-46be-8283-f22c5fc27890|J'ai récupéré le téléphone de Madison ! C'est quoi la suite ?
+2735cdd2-afcd-4201-855f-d78070a08d02|Mademoiselle, j'ai l'impression que votre sandale glisse de nouveau...
+4acc488f-4f6f-4382-9f6b-ff0be586bc56|Parle-moi des invités de cette soirée, Ashley.
+52152e91-c893-4e85-ba2f-e9c635a1746d|A propos de ce journal...
+d20db5f4-306e-4bb9-bf97-d4f5de009bb0|Je crois que tu as oublié de mentionner quelqu'un... Que peux-tu me dire à propos de Brittney ?
+57c0a749-d5d1-453c-87ec-d6e6dc282acd|Il y a une fille à l'étage qui reste dans son coin. As-tu déjà rencontré Brittney ?
+dc6b203a-b95e-4612-8d71-26a4fad12377|test
+bb479d5a-99c5-41c7-b18e-a5c3667c300f|A plus, Ashley !
+
+[Quests]
+417e6480-b266-4ac8-9b79-a1ddc623afc2|Violation de vie privée
+417e6480-b266-4ac8-9b79-a1ddc623afc2Description|Ashley veut que vous trouviez le journal intime de Madison et que vous le lui rapportiez afin qu'elle soit sûre qu'elle puisse vous faire confiance.
+86a26039-0fe0-4faf-800d-87055faaecb8|Ashley est trempée
+86a26039-0fe0-4faf-800d-87055faaecb8Description|Ashley veut que vous trouviez quelque chose pour l'aider à se sécher... Et autre chose que votre langue.
+5a45a833-ee53-4d63-88c5-34a5eda727bf|Changement d'avis
+5a45a833-ee53-4d63-88c5-34a5eda727bfDescription|Ashley a-t-elle vraiment mérité ça ? Vous devriez peut-être l'aider à se sortir de cette situation... Ou pas. C'est vous qui voyez.
+76cd3b14-9e0a-40c0-9d3c-d06c3898a023|Rédemption
+76cd3b14-9e0a-40c0-9d3c-d06c3898a023Description|Pour revenir dans les bonnes grâces d'Ashley, vous allez avoir besoin de votre nouvelle compétence : discuter comme un être humain normal.
+63491b66-76b0-4b8e-9b86-1ba62698f1af|Le fournisseur !
+63491b66-76b0-4b8e-9b86-1ba62698f1afDescription|Vous devez trouver un joint pour Ashley. Quelqu'un à cette soirée doit bien savoir où vous pouvez en dégoter un.
+054f271d-845c-4b3c-a06f-8670bc54724a|Nom de la quête
+054f271d-845c-4b3c-a06f-8670bc54724aDescription|Description de la quête
+eeca99ad-50cb-4494-a38b-772c0f00de2d|Précision chirurgicale
+eeca99ad-50cb-4494-a38b-772c0f00de2dDescription|Vous possédez maintenant des photos de nu de Madison. Ashley veut que vous les utilisiez judicieusement. Parmi les invités, qui en ferait le meilleur usage ?
+9df4af74-23b7-46a7-bf93-d8f7c7902331|A la recherche d'un étalon
+9df4af74-23b7-46a7-bf93-d8f7c7902331Description|Madison a besoin d'un partenaire pour "danser". Trouvez cette personne.
+feac773f-7c3b-4fca-84bf-0ea2fc6f8121|Signes d'affection
+feac773f-7c3b-4fca-84bf-0ea2fc6f8121Description|Faites un cadeau à Ashley qu'elle ne pourrait pas refuser.
+8e5d4c66-7386-4610-a5fa-94727f189e0b|Moment familial
+8e5d4c66-7386-4610-a5fa-94727f189e0bDescription|Attendez qu'Ashley et Patrick aient finis de discuter. Ou débrouillez-vous pour vous débarrasser de Patrick.
+bfe97eea-822d-498e-82f1-a752f40901ef|Vengeance vocale
+bfe97eea-822d-498e-82f1-a752f40901efDescription|Ecoutez le message vocal sur le répondeur de Madison téléphone. Dépêchez-vous !
+a86e5f53-2db2-4855-b8a1-edc36586a443|Entremetteur
+a86e5f53-2db2-4855-b8a1-edc36586a443Description|Parlez à Derek à propos de Madison.
+0aa125b5-71bb-4706-9a75-3cfb07f9a72a|Nom de la quête
+0aa125b5-71bb-4706-9a75-3cfb07f9a72aDescription|Description de la quête
+1864f73d-4b1a-49f0-8a2b-b7ccad385dad|Guerre fratricide
+1864f73d-4b1a-49f0-8a2b-b7ccad385dadDescription|Aide Ashley à jouer sa meilleure farce à Madison et survis pour la raconter.
+5b50dea1-ccc9-4c4f-b507-9b770b11d045|Charmez Ashley
+5b50dea1-ccc9-4c4f-b507-9b770b11d045Description|Essayez de charmer Ashley en discutant simplement avec elle. Ca ne devrait pas être trop compliqué, non ?
+6fcac18e-98cf-4ab8-b5d2-34833f4987d9|Ivre et désordonnée - Ashley
+6fcac18e-98cf-4ab8-b5d2-34833f4987d9Description|La bière semble alimenter la rage d'Ashley envers sa soeur Madison. Plus de bière... plus de rage.
+0a77fcc8-d2c8-40fc-9a01-aaedcd8417d8|Route de la rédemption
+0a77fcc8-d2c8-40fc-9a01-aaedcd8417d8Description|Après avoir dégrafé le haut d'Ashley, vous avez vraiment réduit vos chances de l'aider à jouer sa farce à Madison. Mais tout n'est pas perdu ! Trouvez un moyen de revenir dans ses bonnes grâces.
+
+[Events]
+91d0def4-ccdb-4252-8965-42cb9b2100dd|Si je montre le téléphone de Madison à Ashley, je ne pourrais plus faire marche arrière. Est-ce vraiment la route que je veux prendre ?
+53d0c099-2e19-4c39-83bd-4b9ec9b98302|Hum. Intéressant. Apparemment, Ashley ne s'entends pas bien avec Madison...
+2aec68a3-ab30-4cf7-acb3-95cfbcfdfefc|Merde, J'aurais dû faire plus ample connaissance d'abord...
+1fba95e3-2142-4d6b-99e2-1b8d2e3e4346|J'ai l'impression que ça fonctionne. Je ferais mieux de garder un oeil sur Ashley.
+22bde098-98b5-48a5-8a83-46ab01b85863|Waouh. Elle est tellement heureuse qu'elle ne réalise même pas que je ne lui ai pas rendu sa culotte !
+21adc4e2-e7e7-4386-8856-18cfe3f25c58|Merde, if faut vraiment que je sois plus attentif aux personnes à proximité avant d'avoir ce genre de conversation.
+792af445-33b3-4f85-be37-a6cab9deb85f|Merde ! Je suppose que je ne l'intéressais pas suffisamment pour qu'elle accepte que je lui pose ce genre de chose...
+f692ebd4-4330-4be1-a335-4b74942b208e|Comment ça n'a pas pu fonctionner ?
+129a8234-0314-4da5-b3a0-43fc0ca35aed|Et merde, que faire ? Je suppose qu'il faut que je teigne cette chose...
+96a4a9fb-3d39-4ac6-ae1f-6440c55949e4|Ashley accepte mon aide pour jouer sa farce !
+0aeb3f05-2cdd-4769-838e-195260aa3f79|Je suppose que je devrais trouver un moyen de transformer ça...
+85f8d72a-52e2-4c88-a43b-7b24b5b5ac86|Si je montre le téléphone de Madison à Ashley, je ne pourrais plus faire marche arrière. Est-ce vraiment la route que je veux prendre ?
+fa39592b-b6ce-473a-9bb4-d4dc32f3b881|Ma sublime mentore ès-farce a dit qu'il me faut fermer la porte avant de pouvoir "atteindre" des niveaux plus élevés.
+1ad1562d-efd7-4b39-a0e8-66c500ce84b7|Psst, c'est ta conscience qui te parle : si tu veux en savoir plus sur le site de Patrick, joue à "Une soirée avec Brittney" !
+3349a34a-a6f6-478f-a354-bdb8e29ae6fd|Je pense qu'Ashley n'aura plus envie d'un verre pour le reste de la soirée...
+e75eeeea-a688-4d72-9dfc-2a9bb984384c|Hum. Elle vient de s'enfermer dans la salle de bain. Personne ne l'a vraiment vue. J'aurais dû penser à verrouiller la porte.
+dc374b3d-c42d-444f-aaed-009cfe89f455|Hum. Elle vient de s'enfermer dans la salle de bain. Personne ne l'a vraiment vue. J'aurais dû penser à verrouiller la porte.
+377a7dc7-c457-4c81-82a3-c7cefdb10928|Hum. Elle vient de s'enfermer dans la salle de bain. Personne ne l'a vraiment vue. J'aurais dû penser à verrouiller la porte.
+80b67e91-01b2-429f-8c79-98d1457f7dab|Et voilà. J'ai versé toute la bouteille de Clear Eyes dans le soda. Quelqu'un est sur le point de passer une très mauvaise journée.
+ec687555-0b3a-432a-b13d-ebe96d900260|Ce soda a été mélangé avec Clear Eyes. Celui qui va le consommer ne se sentira pas très bien assez vite.
+1d7dbb19-b072-4d11-b256-0fdc9b0e9de0|Soda trafiqué
+23ac413d-edd6-497c-94bd-59b9e687978a|Hum. Elle vient de s'enfermer dans la salle de bain. Personne ne l'a vraiment vue. J'aurais dû penser à verrouiller la porte.
+e1c66523-8142-45ff-af2e-949fcd63fd67|Ashley refusera de passer du bon temps avec moi alors que n'importe qui peut entrer à tout moment dans sa chambre. Je dois absolument fermer cette porte !
